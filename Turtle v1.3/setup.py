@@ -10,5 +10,5 @@ setuptools.setup(
     url="https://github.com/Nico-hub856/Turtle",
     packages=setuptools.find_packages(exclude=("tests")),
     classifiers=["Programming Language :: Python :: 3"],
-    python_requires='3.6'
+    python_requires='>=3.6'
 )
