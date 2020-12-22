@@ -1,5 +1,5 @@
 # Turtle
-A basic turtle made in pygame.
+A basic turtle made with pygame.
 
 **v0.7**
 Fonctionnal turtle (normaly) in the same folder of your turtle code.
