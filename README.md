@@ -1,4 +1,4 @@
-# Turtle
+# MrTurtle
 A basic turtle made with pygame.
 
 **v0.7**
